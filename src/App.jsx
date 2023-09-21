@@ -46,7 +46,7 @@ const lightTheme = {
 };
 
 const darkTheme = {
-  body: "#333333",
+  body: "#c90a0a",
   text: "#ffffff",
   textBtn: "black",
   toggleButton: "#ffffff",
